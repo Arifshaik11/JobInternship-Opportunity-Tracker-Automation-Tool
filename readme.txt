@@ -1,6 +1,6 @@
 Job/Internship Opportunity Tracker Automation Tool
 
-📌 Overview of project:
+📌 Overview:
 This tool automates tracking of job/internship opportunities from selected company career portals. It periodically checks for new postings, filters them based on preferences, and sends email notifications.
 
 🚀 Features:
@@ -54,3 +54,5 @@ KEYWORDS=python,developer,internship
 💡 Tip:
 When starting a new ChatGPT session, share this readme.txt with your assistant so they understand your project instantly.
 
+contributor :
+arifshaik11
