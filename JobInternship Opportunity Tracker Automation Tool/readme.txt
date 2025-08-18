@@ -1,6 +1,6 @@
 Job/Internship Opportunity Tracker Automation Tool
 
-📌 Overview:
+📌 Overview of project:
 This tool automates tracking of job/internship opportunities from selected company career portals. It periodically checks for new postings, filters them based on preferences, and sends email notifications.
 
 🚀 Features:
